@@ -1,5 +1,5 @@
-# zipoVario
-A variometer for paragliding implemented with an Arduino nano and a athmosferic
+# ZipoVario
+A variometer for paraglading implemented with an Arduino nano and a athmosferic
 sensor BMP-280.
 It is using a very simple scheduler for handle four threads based in hardware
 timer interupt, with diferent priorities and time asignament.
