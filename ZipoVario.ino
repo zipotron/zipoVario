@@ -2,9 +2,9 @@
 #include <Adafruit_BMP280.h>
 #include <TimerOne.h>
 
-#define DATA_BUFFER_SIZE 10
+#define DATA_BUFFER_SIZE 3
 
-#define TASK_DATA_TICKS 50 //100 system ticks is 1 second
+#define TASK_DATA_TICKS 30 //100 system ticks is 1 second
 #define TASK_BUZZER_TICKS 1
 #define TASK_MOTOR_TICKS 30
 
